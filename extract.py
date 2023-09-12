@@ -3,7 +3,7 @@ import requests, json
 
 base_url = 'https://sdw-2023-prd.up.railway.app'
 listaID = ['1670','1671','1672']
-api_key =  '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'
+api_key =  'chave api'
 nomes = []
 noticias =[]
 
